@@ -1,2 +1,2 @@
 # html-portofolio
-A portofolio with all my prjects
+A portofolio with all my projects
